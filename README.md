@@ -8,6 +8,9 @@ A list of some personalities from Russian IT who spoke out in support of Russia'
 
 ## Compromatt timeline:
 
+05.03.2023:
+[VK](./companies/VK/) incident
+
 04.03.2023:
 [Ksenia Prarfenova](./persons/ksuu_parfenova.md)
 [Michail Luchin](./persons/michail_luchin.md)
