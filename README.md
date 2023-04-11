@@ -30,5 +30,5 @@ A list of some personalities from Russian IT who spoke out in support of Russia'
 04.03.2023:
 [Ksenia Parfenova](./persons/ksuu_parfenova.md)
 [Michail Luchin](./persons/michail_luchin.md)
-[Alena Vladimirskaya](./persons/Alana_Vladimirskaya/alena_vladimirskaya.md)
+[Alena Vladimirskaya](./persons/Alena_Vladimirskaya/alena_vladimirskaya.md)
 [Alexander Tobol](./persons/Alexander_Tobol/alexander_tobol.md)
