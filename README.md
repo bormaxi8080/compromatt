@@ -8,6 +8,9 @@ A list of some personalities from Russian IT who spoke out in support of Russia'
 
 ## Compromatt timeline:
 
+21.04.2023:
+community folder added
+
 05.03.2023:
 [VK](./companies/VK/) incident
 
